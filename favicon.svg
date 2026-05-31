@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="CIE-11 socioeducativa">
-  <rect width="64" height="64" rx="14" fill="#123b36"/>
-  <path d="M17 42c6-12 22-12 30 0" fill="none" stroke="#f5b84b" stroke-width="5" stroke-linecap="round"/>
-  <circle cx="32" cy="24" r="9" fill="#7cc7ff"/>
-  <path d="M17 18 32 10l15 8" fill="none" stroke="#e9f7f4" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M20 47h24" stroke="#e9f7f4" stroke-width="4" stroke-linecap="round"/>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64' role='img' aria-label='CIE-11 Accion Socioeducativa'>
+  <rect width='64' height='64' rx='14' fill='#123b36'/>
+  <path d='M14 43c7-13 28-13 36 0' fill='none' stroke='#f5b84b' stroke-width='5' stroke-linecap='round'/>
+  <circle cx='32' cy='24' r='9' fill='#7cc7ff'/>
+  <path d='M17 18 32 10l15 8' fill='none' stroke='#e9f7f4' stroke-width='4' stroke-linecap='round'/>
+  <circle cx='15' cy='47' r='3' fill='#dff3e8'/>
+  <circle cx='49' cy='47' r='3' fill='#dff3e8'/>
 </svg>
